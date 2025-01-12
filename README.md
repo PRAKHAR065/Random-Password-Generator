@@ -1,6 +1,5 @@
-Random Password Generator
+Random Password Generator:                                                                                                                
 The Random Password Generator is a user-friendly web-based tool designed to help users create secure and strong passwords effortlessly. Built with HTML, CSS, and JavaScript, this project focuses on simplicity, functionality, and aesthetics to enhance user experience while ensuring robust password generation .
-
 Features:
 Customizable Length: Users can specify the desired length of the password to suit different security requirements.
 Character Options: Includes options to include:
